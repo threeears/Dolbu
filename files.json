@@ -1,0 +1,32 @@
+[
+	{"fileID" : 1002,
+	"name" : "Gone With the Wind",
+	"author" : "AdaLee",
+	"price": "30"},
+	
+	{"fileID" : 1003,
+	"name" : "Greedy Algorithm",
+	"author" : "CLS",
+	"price" : "27"},
+	
+	{"fileID" : 1004,
+	"name" : "Truth",
+	"author" : "Chris",
+	"price" : "28"},
+	
+	{"fileID" : 1005,
+	"name" : "Computer System",
+	"author" : "Pros Den.",
+	"price" : "59"},
+	
+	{"fileID" : 1006,
+	"name" : "Alice in the WonderLand",
+	"author" : "Alice",
+	"price" : "10"},
+	
+	{"fileID" : 1007,
+	"name" : "Truth",
+	"author" : "Chris",
+	"price" : "33"},
+		
+]

@@ -1,0 +1,22 @@
+[
+	{"userID" : 54635,
+	"name" : "Ada",
+	"permission" : 111},
+	
+	{"userID" : 54636,
+	"name" : "Alice",
+	"permission" : 100},
+	
+	{"userID" : 54637,
+	"name" : "Ben",
+	"permission" : 0},
+	
+	{"userID" : 54638,
+	"name" : "Den",
+	"permission" : 110},
+	
+	{"userID" : 54639,
+	"name" : "Zoe",
+	"permission" : 111}
+		
+]
